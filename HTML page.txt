@@ -2,7 +2,7 @@
 	<head></head> == $0
 	<body>
 		<div>
-			<img src= "httpghggdythgytdythg">
+			<img src= "">
 		</div>
 		<div>
 			<h1>Dylan Williams</h1>
