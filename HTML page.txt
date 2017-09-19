@@ -1,0 +1,32 @@
+<html>
+	<head></head> == $0
+	<body>
+		<div>
+			<img src= "httpghggdythgytdythg">
+		</div>
+		<div>
+			<h1>Dylan Williams</h1>
+			<h2>Freshman in Greenville, South Carolina</h2>
+			<p>
+				I am a freshman at				
+				 <a href="http://www.bju.edu/">Bob Jones University</a>.
+				 I am an Information Technology major, and I am eager to learn more everyday.
+			</p>
+			<p>
+				I enjoy being around friends and family, playing sports, and being out in nature.
+				
+			</p>
+			<p>
+				I'm also excited to start going on outreaches with my society and with
+				<a href="http://www.bjucgo.com/gogreenville.html">Go Greenville</a>.
+				In Matthew 9:37-38 Jesus says, "Then He said to His disciples, “The harvest is plentiful, but the workers are few. Therefore beseech the Lord of the harvest to send out workers into His harvest."
+			</p>
+			<h3>Education</h3>
+				"Information Technology Major
+				"
+			<br>
+				"Bob Jones University
+					"
+			</div>
+		</body>
+	</html>
