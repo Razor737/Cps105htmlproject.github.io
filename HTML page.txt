@@ -2,7 +2,7 @@
 	<head></head> == $0
 	<body>
 		<div>
-			<img src= "">
+			<img src= "https://github.com/Razor737/Cps105project.github.io/blob/master/HTML%20Page%20Picture%20(2).jpg">
 		</div>
 		<div>
 			<h1>Dylan Williams</h1>
